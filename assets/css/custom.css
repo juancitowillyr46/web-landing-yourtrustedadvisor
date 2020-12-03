@@ -1,0 +1,295 @@
+/* .learn-more-btn {
+
+} */
+body {
+    color: #096aba !important;
+}
+
+.nav-link-menu {
+    color:#3a3a3a !important;
+}
+
+.header-title{
+    color: #096aba !important;
+}
+
+.navbar-toggler-icon {
+    background-image: url(../images/menu.png) !important;
+}
+
+.learn-more-btn{
+    background-color: #389cef !important;
+}
+
+.learn-more-btn:hover {
+    background-color: #096aba !important;
+}
+
+.pricing-ribbon span{
+    background-color: #d4382c !important;
+}
+
+.pricing-rate{
+    color: #096aba !important;
+}
+
+.pricing-period{
+    color: #096aba !important;
+}
+
+.pricing-title h2{
+    color: #096aba !important;
+}
+
+.vertical-slider-title {
+    color: #096aba !important;
+}
+
+.faq-title {
+    color: #096aba !important;
+}
+
+.reviews-slider-title {
+    color: #096aba !important;
+}
+
+.reviews-slider-subtitle {
+    color: #3a3a3a !important;
+}
+
+.owl-reviews-slider .owl-dots .owl-dot span {
+    background-color: rgb(58 58 58 / 20%) !important;
+}
+
+.owl-reviews-slider .owl-dots .owl-dot.active span, .owl-theme .owl-dots .owl-dot:hover span {
+    background-color: #389cef!important;
+}
+
+.download-section{
+    background-color: rgb(9 106 186 / 7%) !important;
+}
+
+.download-title{
+    color: #096aba !important;
+}
+
+.footer-subsection-title{
+    color: #096aba !important;
+}
+
+.footer-section a {
+    color: #096aba !important;
+}
+
+/* a:hover {
+    color: #389cef !important;
+} */
+
+.footer-section a {
+    color: #096aba !important;
+}
+
+
+.faq-accordion .accordion {
+    background-color: #389cef !important;
+}
+
+.faq-accordion .panel p {
+    color: #3a3a3a !important;
+}
+
+.members:active, .accordion:hover {
+    background-color: #096aba!important;
+}
+
+.owl-vertical-slider .owl-dots .owl-dot span {
+    background-color: rgb(58 58 58 / 20%) !important;
+}
+
+.owl-vertical-slider .owl-dots .owl-dot.active span, .owl-theme .owl-dots .owl-dot:hover span {
+    background-color: #389cef!important;
+}
+
+.footer-social-media-icon .fa {
+    color: #389cef !important;
+}
+
+.footer-social-media-icon .fa:hover {
+    color: #096aba!important;
+}
+
+
+.vertical-slider-section {
+    background-color: rgb(9 106 186 / 0%) !important;
+    /* padding-top: 6em !important; */
+}
+
+
+.header-title-text{
+    color: #3a3a3a !important;
+}
+
+.vertical-slider-text{
+    color: #3a3a3a !important;
+    padding-right: 0.5em !important;
+}
+
+.pricing-title p{ 
+    color: #3a3a3a !important;
+}
+
+.reviews-slider-text {
+    color: #3a3a3a !important;
+}
+
+
+@media screen and (max-width: 991.98px){
+    .owl-vertical-slider .owl-dots {
+        left: 19em !important;
+        right: 0 !important;
+    }
+}
+
+.featured{
+    background-color: rgb(56 156 239 / 11%) !important;
+}
+
+.contact-ws{
+    background-color: #4dc247 !important;
+}
+
+.contact-ws:hover {
+    background-color: #489a44 !important;
+}
+
+.cookies{ 
+    /* bottom: 10px; */
+    background: #eaf0f6;
+    width: 95%;
+    text-align: center;
+    padding-bottom: 0.8em;
+    margin: 0 auto;
+    position: absolute;
+    /* top: 50%; */
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.navbar-brand img {
+    width: 240px !important;
+}
+
+.nav-link-menu {
+    font-family: Poppins;
+    font-weight: 600;
+    font-size: 16px;
+    color: #3a3a3a !important;
+    line-height: 1;
+}
+
+
+.reviews-slider-section {
+    padding-top: 6em !important;
+}
+
+.tutors-card-icon-section {
+    background-color:transparent !important;
+}
+
+.tutors-card h2{
+    width: 100% !important;
+    max-width: 100% !important;
+}
+
+.modal-body p, .modal-body li{
+    font-weight: 300 !important;
+    padding-bottom: 0.5em !important;
+    padding-top: 0.5em !important;
+    text-align: justify !important;
+    color: #3a3a3a !important;
+}
+
+.modal-body li{
+    padding-left: 1em !important;
+}
+
+.modal-body h4{
+    padding-top: 1em !important;
+}
+
+
+.card-body{
+    height: 12em !important;
+    padding: 1em !important;
+}
+
+.card-text{
+    text-align: center;
+
+    font-size: 1.2em;
+    font-family: Montserrat;
+    font-weight: 400;
+    color: #000;
+
+}
+
+.panel ul li{
+    padding-bottom: 0.5em;
+    color: #212529 !important;
+}
+
+.pricing-text{ 
+    font-size: 14px !important;
+}
+
+.featured-comming-soon {
+    box-shadow: 0 2px 40px rgba(0,0,0,.05) !important;
+    background-color: #e9edf0 !important;
+}
+
+    .pricing-ribbon-comming-soon > span {
+        background-color: #096aba !important;
+    }
+
+    .featured-comming-soon a {
+        cursor: not-allowed;
+    }
+    
+
+li {
+    font-size: 16px;
+    color: #3a3a3a !important;
+    font-weight: 400 !important;
+}
+
+.footer-logo img {
+    width: 77% !important;
+}
+
+.learn-more-btn-disabled, .learn-more-btn-disabled:hover {
+    border: 1px solid #999999 !important;
+    background-color: #cccccc !important;
+    color: #666666 !important;
+}
+
+video, video:focus {
+    border: 0px solid #eaf0f6 !important;
+}
+
+:focus { outline: none; }
+
+
+.flag-normal {
+    display:none;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+}
+
+@media screen and (max-width: 576.98px){
+    .flag-rounded {
+        display:none
+    }
+    .flag-normal {
+        display:block;
+    }
+}
